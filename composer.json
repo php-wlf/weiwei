@@ -1,0 +1,12 @@
+{
+    "name": "wlf/weiwei",
+    "description": "ceshi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wlf",
+            "email": "zhuyeqingailing@126.com"
+        }
+    ],
+    "require": {}
+}
