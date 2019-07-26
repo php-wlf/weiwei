@@ -1,0 +1,18 @@
+{
+    "name": "wlf/pack-test",
+    "description": "asfasf",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wlf",
+            "email": "zhuyeqingailing@126.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Pack\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
