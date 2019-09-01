@@ -1,6 +1,7 @@
 {
     "name": "km/api-doc",
     "description": "The ThinkPHP5 Api Doc Package",
+    "type": "km-extend",
     "license": "MIT",
     "authors": [
         {
@@ -19,8 +20,7 @@
     },
     "require": {
         "topthink/think-helper": ">=1.0.4",
-        "topthink/think-installer": "^2.0",
-        "topthink/framework": "5.1.37"
+        "topthink/think-installer": ">=1.0.10"
     },
     "extra": {
         "think-config": {
